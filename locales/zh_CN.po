@@ -6225,7 +6225,7 @@ msgstr "单击某个元素以将其从网络中删除"
 msgid ""
 "Click on the %s icon to load the elements of the selected entity, as well as"
 " its sub-entities."
-msgstr ""
+msgstr "点击 %s 图标可加载所选实体及其子实体的关联元素"
 
 #: templates/pages/admin/form/access_control/direct_access.html.twig
 msgid "Click to copy to clipboard"
