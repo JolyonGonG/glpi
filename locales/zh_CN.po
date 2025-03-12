@@ -27045,7 +27045,7 @@ msgstr "无法解决的问题!"
 
 #: src/CommonITILObject.php:2920
 msgid "You cannot use predefined description verbatim"
-msgstr ""
+msgstr "不能直接使用预定义的描述内容，请根据实际情况修改"
 
 #: install/install.php:289
 msgid "You didn't select a database!"
